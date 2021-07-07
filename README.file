@@ -1,11 +1,11 @@
-You need :
+# You need :
 1. Node JS
 2. Angular
 3. XAMP / WAMP
 4. Angular CLI
 5. MYSQL / MariaDb
 
-
+# Guide Step by Step
 /*   HOW TO ADD THESE FILES */
 1. Create an angular project Using ( ng new prjectname)
 2. After that serve it using ( Ng build and then ng serve --open)
