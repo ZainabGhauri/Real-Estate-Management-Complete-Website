@@ -13,4 +13,6 @@ You need :
 4. Put this project and all the Php Files in a htdocs ( XAMMP) or www (WAMP)
 5. Now , Add the database in phpmadmin 
 6. Now run the php files on local host , copy the path and replace it in the guest.api.service file respectively.
-7. Its done , Yay. You just have created a REAL ESTATE MANAGEMENT PROJECT
+7. put the about and branches.html in assets folder in src/assets.
+8. Now put the images folder in the assets too and in the project folder too.
+9. Its done , Yay. You just have created a REAL ESTATE MANAGEMENT PROJECT
