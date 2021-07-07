@@ -1,0 +1,16 @@
+You need :
+1. Node JS
+2. Angular
+3. XAMP / WAMP
+4. Angular CLI
+5. MYSQL / MariaDb
+
+
+/*   HOW TO ADD THESE FILES */
+1. Create an angular project Using ( ng new prjectname)
+2. After that serve it using ( Ng build and then ng serve --open)
+3. Now replace the SRC folder with the one uploaded here
+4. Put this project and all the Php Files in a htdocs ( XAMMP) or www (WAMP)
+5. Now , Add the database in phpmadmin 
+6. Now run the php files on local host , copy the path and replace it in the guest.api.service file respectively.
+7. Its done , Yay. You just have created a REAL ESTATE MANAGEMENT PROJECT
